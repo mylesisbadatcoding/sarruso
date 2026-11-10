@@ -1,0 +1,95 @@
+Name,Category,Platforms,Processing,Free Tier,Cost (USD unless noted),Hardware Cost,Notes / Conflicts,Source URL
+Wispr Flow,AI dictation (system-wide),"Mac, Windows, iOS, Android",Cloud,"Free plan (cap unclear; some pages say 2,000 words/wk)",Pro $15/mo or $12/mo annual; Growth $23/mo or $18/mo annual; Enterprise custom,,Your inspiration app. Cloud-only transcription.,https://wisprflow.ai/pricing
+Superwhisper,AI dictation (system-wide),"Mac, Windows, iOS, Android",Local or cloud by mode,"Free: unlimited local Whisper models, 2 modes","Pro $8.49/mo, $84.99/yr, or $249.99 lifetime",,Getvoibe says no Windows; Spokenly says Windows.,https://superwhisper.com
+Aqua Voice,AI dictation (system-wide),"Mac, Windows, iOS, Android",Cloud,"~1,000 words trial",Pro $8-12/mo ($8-10 annual); Max $24/mo ($19 annual); Business $24/seat ($19 annual),,Pro price differs between review sites.,https://aquavoice.com/pricing
+Willow Voice,AI dictation (system-wide),"Mac, Windows, iOS (Android coming)",Cloud; optional offline on Mac/iPhone,"Limited free tier (2,000 words/wk per one review)",Pro $15/mo ($12 annual); Business $35/mo ($28 annual),,,https://willowvoice.com
+Typeless,AI dictation (system-wide),"Mac, Windows, iOS, Android, Linux",Cloud,"8,000 words/wk",Pro $12/mo billed annually; $30/mo monthly,,,https://www.blipai.app/blog/wispr-flow-alternatives
+Voibe,AI dictation (system-wide),"Mac, Windows",On-device on Apple Silicon; zero-retention cloud elsewhere,Free plan with word limit,"$9.90/mo, $99/yr, or $199 lifetime; Work $19/mo",,aidictation.com lists $4.90/mo instead.,https://www.getvoibe.com
+Spokenly,AI dictation (system-wide),"Mac, Windows, Linux, iPhone",Local or cloud,"Free with local models (Whisper, Parakeet) or BYOK",Local+ $19-29 one-time; Pro $99.99/yr or $15/mo,,Prices conflict between sources.,https://spokenly.app
+VoiceInk,AI dictation (system-wide),Mac (Apple Silicon); separate iOS app,Local by default,Free trial; free if built from source (GPL v3),$25-$69 one-time depending on Macs/source,,,https://github.com/Beingpax/VoiceInk
+MacWhisper,AI dictation (system-wide) / file transcription,"Mac, iPhone, iPad",On-device; optional cloud,Free version,Pro ~$30 one-time (or EUR 64 lifetime per another source),,,https://goodsnooze.gumroad.com/l/macwhisper
+Blip AI,AI dictation (system-wide),"Mac, Windows, Linux, iOS, Android",Cloud; on-device Whisper on Pro,"2,000 words/mo",Pro $15/mo or $12/mo annual; Team same per user,,,https://www.blipai.app
+aidictation,AI dictation (system-wide),"Mac, Windows, Android, iPhone, iPad",Local and cloud,"2,000 words/mo",Pro $8.49/mo or $84.99/yr; lifetime $199.99,,,https://aidictation.com
+Handy,AI dictation (system-wide) (open source),"Mac, Windows, Linux",On-device (Whisper/Parakeet),"Free, MIT",Free,,Closest existing model to your offline app idea.,https://github.com/cjpais/Handy
+FluidVoice,AI dictation (system-wide) (open source),Mac; Windows/iPhone beta,Local default,Free,Free,,,https://github.com/altic-dev/FluidVoice
+OpenWhispr,AI dictation (system-wide) (open source),"Linux, Mac, Windows",Local or cloud,Open source,unknown,,,https://github.com/OpenWhispr/openwhispr
+SpeakMac,AI dictation (system-wide),Mac (Apple Silicon),Local,unknown,$19 one-time,,,https://www.getvoibe.com/resources/best-offline-dictation-apps/
+Dragon Professional v16,AI dictation (system-wide),Windows,Not consistently stated,None listed,Quote only (contact sales),,,https://dragon.nuance.com/en-us/dragon-professional
+Talon / Monologue / Braina,AI dictation (system-wide),unknown,unknown,unknown,unknown,,"Named in reviews, no details verified.",https://www.blipai.app/blog/wispr-flow-alternatives
+Fireflies Talk,AI dictation (system-wide),unknown,unknown,Free unlimited dictation (banner on Fireflies site),Free,,,https://fireflies.ai/pricing
+Apple Dictation,Built-in OS dictation,"Mac, iPhone, iPad",On-device or server depending on device/language,Free,Free,,,https://support.apple.com/guide/mac-help/dictate-messages-and-documents-mh40584/mac
+Windows Voice Typing (Win+H),Built-in OS dictation,Windows,Cloud (Azure Speech),Free,Free,,,https://support.microsoft.com/en-us/windows/use-voice-typing-to-talk-instead-of-type-on-your-pc-fec94565-c4bd-329d-e59a-af033fa5689f
+Windows Voice Access,Built-in OS dictation,Windows 11 22H2+,On-device after language download,Free,Free,,,https://support.microsoft.com/en-us/topic/get-started-with-voice-access-bd2aa2dc-46c2-486c-93ae-3d75f7d053a4
+Voicenotes,Voice memo / meeting notes app,"Mac, Windows, iOS, Android, watchOS, Wear OS, Chrome",Cloud,"Free: 30 min/meeting, 14-day history, limited dictation",Pro $9/mo; Business $24/mo,,,https://voicenotes.com/pricing
+AudioPen,Voice memo / meeting notes app,"iOS, Android, Mac, Windows, web, Watch",Cloud,Free: recordings up to 3 min,Prime $99/yr ($8.25/mo); $159/2yr; $33/3mo,,Voice to cleaned-up text.,https://audiopen.ai
+Whisper Memos,Voice memo / meeting notes app,"iPhone, Apple Watch",Cloud,Free to try (limits unknown),$9.99/mo or $69.99/yr,,Summaries emailed.,https://whispermemos.com
+Otter,Voice memo / meeting notes app,"Mac, Windows, iOS, Android, Chrome",Cloud,Free: 300 min/mo,Pro $16.99/mo ($8.33 annual); Business $30/mo ($19.99 annual),,Promo pricing shown for first-time buyers.,https://otter.ai/pricing
+Fireflies,Voice memo / meeting notes app,"Web, desktop, iOS, Android, Chrome",Cloud,"Free: unlimited transcription, limited AI",Pro $10/seat; Business $19/seat; Enterprise $39/seat (annual),,,https://fireflies.ai/pricing
+Granola,Voice memo / meeting notes app,"Desktop, iOS, Android, Apple Watch",Cloud,Free: 30-day history,Business $14/user; Enterprise $35/user,,,https://www.granola.ai/pricing
+Notta,Voice memo / meeting notes app,"Web, iOS, Android, Chrome, desktop",Cloud,Free: 120 min/mo,Pro $8.17/mo ($97.99/yr); Business $16.67/mo ($199.99/yr),,,https://notta.ai/en/pricing
+Rev,Voice memo / meeting notes app (AI + human),"Web, iOS, Android",Cloud,Free: 45 AI min/mo,Essentials $29.99/seat ($25.49 annual); Pro $59.99/seat ($47.99 annual),,,https://www.rev.com/pricing
+Descript,Voice memo / meeting notes app / editing,unknown,Cloud,Free,Hobbyist $16-24; Creator $24-35; Business $50-65 per person/mo,,Monthly vs annual not labeled in source.,https://www.descript.com/pricing
+Fathom,Voice memo / meeting notes app,unknown,Cloud,unknown,unknown,,Pricing page redirected; not verified.,https://www.fathom.ai/pricing
+Apple Voice Memos / Notes transcription,Voice memo / meeting notes app (built-in),"iPhone, Mac",unknown,Free,Free,,Details not verified.,https://support.apple.com/guide/iphone/iphone-user-guide
+Google Pixel Recorder,Voice memo / meeting notes app (built-in),Pixel phones,unknown,Free,Free,,Page not fetched; not verified.,https://support.google.com/pixelphone/answer/9516063
+Pebble Index 01,Wearable / hardware (ring),"iPhone (iOS 15.6+), Android 8+","On phone, offline; cloud optional",n/a,No subscription,$75 now; going to $99,"Press-and-hold ring, ~2 min clips, non-rechargeable (2-3 yr battery).",https://repebble.com/index
+Sandbar Stream Ring,Wearable / hardware (ring),"iOS, Mac",unknown,Free tier with limited AI chats (per Dec 2025 report),Stream Pro $10/mo (per Dec 2025 report),"$249 (report); site shows pre-order, no price","Push-to-talk notes, dictation, chat with Claude/ChatGPT.",https://www.sandbar.com/
+Plaud Note / Note Pro,Wearable / hardware (card recorder),"iOS, Android",Cloud transcription,300 min/mo,Pro $99.99/yr; Unlimited $239.99/yr (one source: $17.99/$29.99 monthly),Note $159; Note Pro $189,Sources conflict on monthly prices.,https://krisp.ai/blog/best-ai-note-taking-devices/
+Plaud NotePin / NotePin S,Wearable / hardware (clip-on pin),"iOS, Android",Cloud transcription,300 min/mo,Same Plaud tiers,NotePin $159; NotePin S $179,,https://krisp.ai/blog/best-ai-note-taking-devices/
+Omi,"Wearable / hardware (pendant, open source)","iOS, Android, Mac, web","Offline recording, cloud AI","Free: unlimited on-phone transcription, 5 hr/mo cloud",Pro $29.99/mo or $269.91/yr,$129 (was $179),Other reviews quote $19/mo Unlimited and $89 hardware; omi.me shown here.,https://www.omi.me/
+Bee (Amazon),Wearable / hardware (wristband/clip),"iOS, Android, desktop",Cloud (audio deleted after processing),Core features free per one review,Bee Pro price not stated,"$74.99 (Frontier, Amazon)",Acquired by Amazon in 2025.,https://bee.computer/
+Limitless Pendant,Wearable / hardware (pendant),unknown,unknown,"1,200 min/mo (pre-acquisition)",Pro $19/mo (pre-acquisition),$99,Discontinued for new customers Dec 5 2025 after Meta acquisition.,https://bigguyonstuff.com/ai-wearables-2026-honest-review/
+Vibe Dot,Wearable / hardware (recorder),unknown,unknown,300 min/mo,Pro $9/seat/mo; Max $29/seat/mo,$199,,https://vibe.us/products/vibe-dot/
+UMEVO Note Plus,Wearable / hardware (card recorder),unknown,Cloud,Free unlimited transcription year 1; then 400 min/mo,unknown,$149,,https://krisp.ai/blog/best-ai-note-taking-devices/
+HiDock P1,Wearable / hardware (desk recorder),unknown,Azure cloud,Free unlimited basic transcription,Pro ~$12.99/mo,$169,,https://vibe.us/blog/best-wearable-ai-recorders/
+Soundcore Work (Anker),Wearable / hardware (earbuds),unknown,unknown,"300-1,200 min/mo (source inconsistent)",Pro ~$15.99/mo or Unlimited $19/mo,$159,,https://vibe.us/blog/best-wearable-ai-recorders/
+Livescribe LivePen,Wearable / hardware (smart pen),"iOS, Android",Phone mic; cloud handwriting OCR,Free app,No subscription,~$83 (often sold out),,https://krisp.ai/blog/best-ai-note-taking-devices/
+"Other wearables (BOYA Notra, Pocket AI, iFLYTEK SR702, Friend)",Wearable / hardware,unknown,unknown,unknown,Pro ~$17.99/mo (Notra),varies,Lightly covered; verify before relying.,https://vibe.us/blog/best-wearable-ai-recorders/
+Deepgram Nova-3,Speech-to-text API,API,Cloud,$200 credit,$0.0043/min batch; $0.0077/min streaming,,,https://deepgram.com/pricing
+AssemblyAI,Speech-to-text API,API,Cloud,$50 credit,$0.0025-0.0035/min (another source: $0.37/hr),,,https://www.assemblyai.com/docs
+OpenAI Transcribe (whisper-1 / gpt-4o-transcribe / mini),Speech-to-text API,API,Cloud,None,$0.006/min; mini $0.003/min,,,https://platform.openai.com/docs/guides/speech-to-text
+ElevenLabs Scribe v2,Speech-to-text API,API,Cloud,10 hr/mo,$0.0037/min batch; $0.0065/min realtime,,,https://elevenlabs.io/docs/overview/capabilities/speech-to-text
+Google Cloud STT (Chirp 2),Speech-to-text API,API,Cloud,60 min/mo,$0.016/min,,,https://cloud.google.com/speech-to-text/docs
+AWS Transcribe,Speech-to-text API,API,Cloud,60 min/mo for 12 months,$0.024/min tier 1,,,https://docs.aws.amazon.com/transcribe/
+Azure AI Speech,Speech-to-text API,API,Cloud,5 hr/mo,$1.00/hr real-time; $0.18/hr batch,,,https://learn.microsoft.com/en-us/azure/ai-services/speech-service/
+Speechmatics,Speech-to-text API,API,Cloud,480 min/mo,~$0.004-0.0125/min,,Sources conflict.,https://docs.speechmatics.com/
+Gladia,Speech-to-text API,API,Cloud,10 hr/mo,$0.0102/min async; $0.0125/min realtime,,,https://docs.gladia.io/
+Rev AI,Speech-to-text API,API,Cloud,5 hr trial,$0.003/min (other source: $0.002-0.025),,,https://docs.rev.ai/
+Soniox,Speech-to-text API,API,Cloud,$200 credit,~$0.0017/min async,,,https://soniox.com/docs/
+Cartesia Ink,Speech-to-text API / TTS,API,Cloud,Free: 20K credits/mo,"Ink STT 3 credits/sec; plans $5, $49, $299/mo",,,https://cartesia.ai/pricing
+whisper.cpp,On-device model / library (open source),"Mac, Windows, Linux",On-device,Free (MIT),Free,,,https://github.com/ggml-org/whisper.cpp
+OpenAI Whisper,On-device model / library (open source),Any,On-device,Free,Free,,,https://github.com/openai/whisper
+NVIDIA Parakeet,On-device model / library (open source),Any,On-device,Free,Free,,,https://huggingface.co/collections/nvidia/parakeet-702d39a47302ef820e49839d
+Faster Whisper,On-device model / library (open source),Any,On-device,Free,Free,,,https://github.com/SYSTRAN/faster-whisper
+WhisperKit,On-device model / library (open source),Apple Silicon (Swift),On-device,Free,Free,,,https://github.com/argmaxinc/WhisperKit
+WhisperX,On-device model / library (open source),Self-hosted,On-device/GPU,Free (MIT),Free,,,https://github.com/m-bain/whisperX
+Vosk,On-device model / library (open source),Any,On-device,Free,Free,,,https://github.com/alphacep/vosk-api
+Moonshine,On-device model / library (open source),Any,On-device,Free,Free,,Named in Handy/VoxType; no URL verified.,https://github.com/primaprashant/awesome-voice-typing
+Apple Speech framework,On-device model / library (open source),"iOS, macOS, watchOS",On-device/server,Free,Free,,,https://developer.apple.com/documentation/speech
+Buzz,Open-source dictation app,"Linux, Mac, Windows",On-device (Whisper),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/chidiwilliams/buzz
+Amical,Open-source dictation app,"Mac, Windows",On-device (Whisper),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/amicalhq/amical
+Vibe (thewh1teagle),Open-source dictation app,"Linux, Mac, Windows",On-device (Whisper.cpp),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/thewh1teagle/vibe
+Glimpse,Open-source dictation app,"Mac, Windows","On-device (Whisper.cpp, Parakeet)",Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/glimpse-hq/Glimpse
+OpenSuperWhisper,Open-source dictation app,Mac,"On-device (Whisper, Parakeet)",Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/Starmel/OpenSuperWhisper
+Pindrop,Open-source dictation app,Mac,On-device (WhisperKit),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/watzon/pindrop
+Ghost Pepper,Open-source dictation app,Mac,On-device (WhisperKit),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/matthartman/ghost-pepper
+TypeWhisper,Open-source dictation app,Mac,On-device (Whisper),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/TypeWhisper/typewhisper-mac
+Epicenter Whispering,Open-source dictation app,"Linux, Mac, Windows, web",On-device (Whisper),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering
+VoiceTypr,Open-source dictation app,"Mac, Windows",On-device (Whisper),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/moinulmoin/voicetypr
+SpeakoFlow,Open-source dictation app,"Linux, Mac, Windows","On-device (Whisper.cpp, Parakeet)",Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/AbhishekBarali/SpeakoFlow
+Tambourine Voice,Open-source dictation app,"Mac, Windows","On-device (Faster Whisper, BYOK cloud)",Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/kstonekuan/tambourine-voice
+OmniDictate,Open-source dictation app,Windows,On-device (Whisper),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/gurjar1/OmniDictate
+CapsWriter-Offline,Open-source dictation app,Windows,"On-device (Paraformer, SenseVoice, Qwen3-ASR)",Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/HaujetZhao/CapsWriter-Offline
+VoxType,Open-source dictation app,Linux,"On-device (Whisper.cpp, Parakeet, Moonshine)",Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/peteonrails/voxtype
+hyprwhspr,Open-source dictation app,Linux,"On-device (Whisper.cpp, Parakeet)",Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/goodroot/hyprwhspr
+nerd-dictation,Open-source dictation app,Linux,On-device (Vosk),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/ideasman42/nerd-dictation
+Offline Voice Input (Android),Open-source dictation app,Android,On-device (Parakeet TDT),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/notune/android_transcribe_app
+Transcribro,Open-source dictation app,Android,On-device (Whisper.cpp),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/soupslurpr/Transcribro
+Whisper IME,Open-source dictation app,Android,On-device (Whisper),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/woheller69/whisperIME
+WhisperBoard,Open-source dictation app,iOS,On-device (Whisper.cpp),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/Saik0s/Whisperboard
+Yap,Open-source dictation app,Mac,On-device (Apple Speech),Free,Free (license varies),,Listed in awesome-voice-typing; license/price not individually verified.,https://github.com/FrigadeHQ/yap
+ElevenLabs,Text-to-speech (read aloud / voice generation),"Web, API",Cloud,Free: 10k credits/mo,Starter $6/mo; Creator $22/mo; Pro $99/mo; Scale $299/mo; Business $990/mo,,First-month promos on Starter/Creator.,https://elevenlabs.io/pricing
+Speechify,Text-to-speech (read aloud / voice generation),"iOS, Android, Chrome, Edge, Web, Mac, Windows",Cloud,"Free: 1.5x speed, 10 robotic voices",Premium $29/mo or $139/yr,,,https://speechify.com/pricing
+Play.ht,Text-to-speech (read aloud / voice generation),"Web, API",Cloud,"Free: 1,000 characters",Creator $31.20/mo (annual); Unlimited $49/mo (annual),,,https://www.play.ht/pricing
+Cartesia Sonic,Text-to-speech (read aloud / voice generation),API,Cloud,Free: 20K credits/mo,"1 credit/char; Pro $5, Startup $49, Scale $299 per mo",,,https://cartesia.ai/pricing
+Murf / NaturalReader / Hume AI,Text-to-speech (read aloud / voice generation),unknown,Cloud,unknown,Not retrieved,,Pages failed or had no pricing.,https://murf.ai/pricing
