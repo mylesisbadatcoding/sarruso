@@ -1,3 +1,4 @@
+![logo1](Sarruso_logo_1.png)
 # sarruso
 Dev on an ultimate voice-to-everything tool
 ### whats going on with the name?
