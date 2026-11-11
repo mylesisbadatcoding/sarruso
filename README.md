@@ -21,6 +21,8 @@ sackbut was a close second
 - List of 95 applications: research/the other.csv
 - A supprising number of them are free (43)
 ## categories
+- Models (8x): whisper.cpp, Moonshine, OpenAI Whisper, NVIDIA Parakeet, Faster Whisper, WhisperKit, WhisperX, Vosk
 - Hardware (2x) - Pebble ring and Livescribe LivePen
 - Awesome-voice-typing (22x) looks like a bunch of github projects mostly using whisper, whisper.cpp, parakeet, moonshine
 - Hardware Specific (6) built in OS stuff Windows Voice Typing (Win+H), Windows Voice Access, Google Pixel Recorder, Apple Voice Memos / Notes transcription, Apple Speech framework, Apple Dictation
+- Established apps? (5x) Handy, FluidVoice, OpenWhispr, Talon/Monologue/Braina, Fireflies Talk
