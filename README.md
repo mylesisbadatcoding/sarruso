@@ -15,3 +15,4 @@ sackbut was a close second
 - needs to be fully offline-able
 - needs to accept basic commands alongside dictation. for exmaple: "start a note in my dream journal folder"
 - needs to be so fast its crazy.
+- needs to be small, super small.
