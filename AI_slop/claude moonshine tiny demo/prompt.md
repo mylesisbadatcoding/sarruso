@@ -1,0 +1,1 @@
+ok lets try moonshine tiny, build a small ui for it that performs voice to text, live displays text output, saves each conversion as an entry, and displays common benchmarks for each entry (like wer, tok/s rtf and inference) make easily executable on linux
