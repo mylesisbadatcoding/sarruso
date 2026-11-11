@@ -16,6 +16,7 @@ sackbut was a close second
 - needs to accept basic commands alongside dictation. for exmaple: "start a note in my dream journal folder"
 - needs to be so fast its crazy.
 - needs to be small, super small.
+- I need it on everything: android, linux, windows, web (mac and iphone you guys figure it out)
 
 ## Finding an app that meets these requirements:
 - List of 95 applications: research/the other.csv
