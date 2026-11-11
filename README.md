@@ -19,6 +19,8 @@ sackbut was a close second
 
 ## Finding an app that meets these requirements:
 - List of 95 applications: research/the other.csv
-- A supprising number of them are free (44)
--- trest
--   
+- A supprising number of them are free (43)
+## categories
+- Hardware (2x) - Pebble ring and Livescribe LivePen
+- Awesome-voice-typing (22x) looks like a bunch of github projects mostly using whisper, whisper.cpp, parakeet, moonshine
+- Hardware Specific (6) built in OS stuff Windows Voice Typing (Win+H), Windows Voice Access, Google Pixel Recorder, Apple Voice Memos / Notes transcription, Apple Speech framework, Apple Dictation
