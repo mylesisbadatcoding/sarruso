@@ -35,10 +35,17 @@ If you already have the repo: `git pull`, then `cd` into the same folder.
 This runs a fake engine. It proves the server and page work before you download anything.
 
 ```bash
+cd sarruso/"AI_slop/claude moonshine tiny demo"
 MOONSHINE_STUB=1 ./run.sh
 ```
 
-You should see `Open http://127.0.0.1:8000 in your browser`. Leave it running and open that address.
+Expect this output, in order:
+
+1. `==> Moonshine Tiny demo: stub ...`
+2. `==> Step 1/3 ...` then `==> Step 2/3 ...`, followed by a stream of pip lines (`Collecting`, `Downloading`, `Installing`). **This can take 2–5 minutes the first time. Output is normal; don't cancel it.**
+3. `==> Step 3/3: starting server`, then `Open http://127.0.0.1:8000 ...`. Leave it running and open that address.
+
+If you see nothing at all for more than a few seconds, or an `ERROR:` line, copy the terminal output and send it to me.
 
 Check that:
 
