@@ -20,5 +20,5 @@ sackbut was a close second
 ## Finding an app that meets these requirements:
 - List of 95 applications: research/the other.csv
 - A supprising number of them are free (44)
--   Can be broken down into categories
+-- trest
 -   
