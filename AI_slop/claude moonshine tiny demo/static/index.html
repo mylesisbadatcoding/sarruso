@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Moonshine Tiny · live STT</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>Moonshine Tiny <span class="sub">live speech-to-text</span></h1>
+    <span id="model-badge" class="badge">loading…</span>
+  </header>
+
+  <section class="panel">
+    <div class="controls">
+      <button id="rec-btn" class="primary">● Start recording</button>
+      <input id="session-ref" type="text" placeholder="Reference text for WER (optional)">
+      <label class="file-btn">Upload audio
+        <input id="file-input" type="file" accept="audio/*,video/*">
+      </label>
+      <input id="upload-ref" type="text" placeholder="Reference for uploaded file (optional)">
+    </div>
+    <div id="status" class="status">Idle</div>
+    <div id="live" class="live" aria-live="polite"></div>
+  </section>
+
+  <section class="cards" id="summary"></section>
+
+  <section class="panel">
+    <div class="toolbar">
+      <h2>Entries</h2>
+      <div>
+        <a href="/api/entries.csv" class="btn">Export CSV</a>
+        <button id="clear-btn" class="danger">Clear all</button>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th title="When the entry was saved">Time</th>
+            <th title="mic or uploaded file">Source</th>
+            <th>Text</th>
+            <th title="Duration of the audio">Audio</th>
+            <th title="Time of the final inference pass">Inference</th>
+            <th title="Real-time factor: inference time ÷ audio duration. Below 1 is faster than real time.">RTF</th>
+            <th title="Generated tokens per second of inference">Tok/s</th>
+            <th title="Word error rate vs. the reference text (lower is better)">WER</th>
+            <th title="Character error rate vs. the reference text (lower is better)">CER</th>
+            <th title="Time from the first audio to the first partial text">First text</th>
+            <th title="Average inference time per live partial pass">Avg pass</th>
+            <th>Reference</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="entries-body"></tbody>
+      </table>
+    </div>
+    <p id="empty" class="empty" hidden>No entries yet. Record something or upload an audio file.</p>
+  </section>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

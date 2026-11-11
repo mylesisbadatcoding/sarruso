@@ -1,0 +1,7 @@
+useful-moonshine-onnx
+fastapi
+uvicorn[standard]
+python-multipart
+jiwer
+numpy
+soundfile
